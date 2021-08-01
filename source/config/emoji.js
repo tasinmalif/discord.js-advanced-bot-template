@@ -1,0 +1,2 @@
+exports.tick = '✅';
+exports.cross = '❌';
